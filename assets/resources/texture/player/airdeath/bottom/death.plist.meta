@@ -1,10 +1,9 @@
 {
-  "ver": "1.0.6",
+  "ver": "1.0.8",
   "importer": "sprite-atlas",
   "imported": true,
   "uuid": "6efd3e74-91db-4088-af06-c9dad16a1247",
   "files": [
-    ".plist",
     ".json"
   ],
   "subMetas": {
@@ -15,7 +14,7 @@
       "id": "25754",
       "name": "death (84)",
       "userData": {
-        "trimType": "none",
+        "trimType": "auto",
         "trimThreshold": 1,
         "rotated": false,
         "offsetX": 0,
@@ -33,9 +32,21 @@
         "packable": true,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "8d3022df-573e-4da7-8776-b3ff10ae00c5@6c48a",
-        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247"
+        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
       },
-      "ver": "1.0.9",
+      "ver": "1.0.12",
       "imported": true,
       "files": [
         ".json"
@@ -49,7 +60,7 @@
       "id": "42634",
       "name": "death (80)",
       "userData": {
-        "trimType": "none",
+        "trimType": "auto",
         "trimThreshold": 1,
         "rotated": false,
         "offsetX": 0,
@@ -67,9 +78,21 @@
         "packable": true,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "8d3022df-573e-4da7-8776-b3ff10ae00c5@6c48a",
-        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247"
+        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
       },
-      "ver": "1.0.9",
+      "ver": "1.0.12",
       "imported": true,
       "files": [
         ".json"
@@ -83,7 +106,7 @@
       "id": "d91cc",
       "name": "death (79)",
       "userData": {
-        "trimType": "none",
+        "trimType": "auto",
         "trimThreshold": 1,
         "rotated": false,
         "offsetX": 0,
@@ -101,9 +124,21 @@
         "packable": true,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "8d3022df-573e-4da7-8776-b3ff10ae00c5@6c48a",
-        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247"
+        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
       },
-      "ver": "1.0.9",
+      "ver": "1.0.12",
       "imported": true,
       "files": [
         ".json"
@@ -117,7 +152,7 @@
       "id": "45ba7",
       "name": "death (81)",
       "userData": {
-        "trimType": "none",
+        "trimType": "auto",
         "trimThreshold": 1,
         "rotated": false,
         "offsetX": 0,
@@ -135,9 +170,21 @@
         "packable": true,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "8d3022df-573e-4da7-8776-b3ff10ae00c5@6c48a",
-        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247"
+        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
       },
-      "ver": "1.0.9",
+      "ver": "1.0.12",
       "imported": true,
       "files": [
         ".json"
@@ -151,7 +198,7 @@
       "id": "1b3c5",
       "name": "death (82)",
       "userData": {
-        "trimType": "none",
+        "trimType": "auto",
         "trimThreshold": 1,
         "rotated": false,
         "offsetX": 0,
@@ -169,9 +216,21 @@
         "packable": true,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "8d3022df-573e-4da7-8776-b3ff10ae00c5@6c48a",
-        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247"
+        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
       },
-      "ver": "1.0.9",
+      "ver": "1.0.12",
       "imported": true,
       "files": [
         ".json"
@@ -185,7 +244,7 @@
       "id": "3b4b8",
       "name": "death (83)",
       "userData": {
-        "trimType": "none",
+        "trimType": "auto",
         "trimThreshold": 1,
         "rotated": false,
         "offsetX": 0,
@@ -203,9 +262,21 @@
         "packable": true,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "8d3022df-573e-4da7-8776-b3ff10ae00c5@6c48a",
-        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247"
+        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
       },
-      "ver": "1.0.9",
+      "ver": "1.0.12",
       "imported": true,
       "files": [
         ".json"
@@ -219,7 +290,7 @@
       "id": "b091c",
       "name": "death (85)",
       "userData": {
-        "trimType": "none",
+        "trimType": "auto",
         "trimThreshold": 1,
         "rotated": false,
         "offsetX": 0,
@@ -237,9 +308,21 @@
         "packable": true,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "8d3022df-573e-4da7-8776-b3ff10ae00c5@6c48a",
-        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247"
+        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
       },
-      "ver": "1.0.9",
+      "ver": "1.0.12",
       "imported": true,
       "files": [
         ".json"
@@ -253,7 +336,7 @@
       "id": "9191e",
       "name": "death (86)",
       "userData": {
-        "trimType": "none",
+        "trimType": "auto",
         "trimThreshold": 1,
         "rotated": false,
         "offsetX": 0,
@@ -271,9 +354,21 @@
         "packable": true,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "8d3022df-573e-4da7-8776-b3ff10ae00c5@6c48a",
-        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247"
+        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
       },
-      "ver": "1.0.9",
+      "ver": "1.0.12",
       "imported": true,
       "files": [
         ".json"
@@ -287,7 +382,7 @@
       "id": "83a19",
       "name": "death (87)",
       "userData": {
-        "trimType": "none",
+        "trimType": "auto",
         "trimThreshold": 1,
         "rotated": false,
         "offsetX": 0,
@@ -305,9 +400,21 @@
         "packable": true,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "8d3022df-573e-4da7-8776-b3ff10ae00c5@6c48a",
-        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247"
+        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
       },
-      "ver": "1.0.9",
+      "ver": "1.0.12",
       "imported": true,
       "files": [
         ".json"
@@ -321,7 +428,7 @@
       "id": "a20b9",
       "name": "death (88)",
       "userData": {
-        "trimType": "none",
+        "trimType": "auto",
         "trimThreshold": 1,
         "rotated": false,
         "offsetX": 0,
@@ -339,9 +446,21 @@
         "packable": true,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "8d3022df-573e-4da7-8776-b3ff10ae00c5@6c48a",
-        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247"
+        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
       },
-      "ver": "1.0.9",
+      "ver": "1.0.12",
       "imported": true,
       "files": [
         ".json"
@@ -355,7 +474,7 @@
       "id": "384d2",
       "name": "death (89)",
       "userData": {
-        "trimType": "none",
+        "trimType": "auto",
         "trimThreshold": 1,
         "rotated": false,
         "offsetX": 0,
@@ -373,9 +492,21 @@
         "packable": true,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "8d3022df-573e-4da7-8776-b3ff10ae00c5@6c48a",
-        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247"
+        "atlasUuid": "6efd3e74-91db-4088-af06-c9dad16a1247",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
       },
-      "ver": "1.0.9",
+      "ver": "1.0.12",
       "imported": true,
       "files": [
         ".json"
